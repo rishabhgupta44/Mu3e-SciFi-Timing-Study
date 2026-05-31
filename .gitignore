@@ -1,0 +1,10 @@
+build/
+results/*.csv
+*.csv
+*.root
+*.mp4
+*.avi
+*.log
+__pycache__/
+*.pyc
+.DS_Store
