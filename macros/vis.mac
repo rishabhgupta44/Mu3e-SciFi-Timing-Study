@@ -1,0 +1,8 @@
+/run/initialize
+/vis/open OGL
+/vis/viewer/set/viewpointThetaPhi 70 30
+/vis/drawVolume
+/vis/scene/add/trajectories smooth
+/tracking/storeTrajectory 1
+/run/beamOn 5
+
